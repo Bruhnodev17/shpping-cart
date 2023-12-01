@@ -1,8 +1,8 @@
 # React + Vite
+# Carrnho de compras em React
+Aplicação feita em React, foram utilizadas as ferraentas e libs:  React Hooks, Uuid, Styled Components e Express.Js
+Foram implementadas funções para adicionar o itens a uma lista de arrays e trazê-los à página. Foi adicionado mais uma função para deletar ao clicar no emoji de lixeira, ao lado de cada item,
+permitindo adição e exclusão dos mesmos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![cart-list](https://github.com/Bruhnodev17/shpping-cart/assets/150696467/fe8fee87-747d-42e9-8a63-a87f9f26e8bd)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
