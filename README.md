@@ -1,5 +1,5 @@
 # React + Vite
-# Carrnho de compras em React
+# Carrinho de compras em React
 Aplicação feita em React, foram utilizadas as ferraentas e libs:  React Hooks, Uuid, Styled Components e Express.Js
 Foram implementadas funções para adicionar o itens a uma lista de arrays e trazê-los à página. Foi adicionado mais uma função para deletar ao clicar no emoji de lixeira, ao lado de cada item,
 permitindo adição e exclusão dos mesmos.
